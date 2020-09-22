@@ -18,7 +18,7 @@ title: Andrei Dan's Personal Web Page
 name: Andrei Dan
 email: d2an3m@gmail.com
 email_full: mailto:d2an3m@gmail.com
-website: https://d2an3.github.io
+website: d2an3.github.io
 website_full: https://d2an3.github.io
 github: d2an3
 twitter: d2an3
@@ -27,8 +27,7 @@ twitter: d2an3
 google_maps: 'https://goo.gl/maps/CYKtruXQiFZW1r856'
 address: 
   street: Power Grids Research, Segelhofstrasse 1A
-  postcode: 5405
-  city: Baden
+  postcode: 5405 Baden
   country: Switzerland
 # google_analytics: UA-69300817-1
 
