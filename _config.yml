@@ -27,7 +27,8 @@ twitter: d2an3
 google_maps: 'https://goo.gl/maps/CYKtruXQiFZW1r856'
 address: 
   street: Power Grids Research, Segelhofstrasse 1A
-  postcode: 5405 Baden
+  postcode: CH-5405
+  city: Baden 
   country: Switzerland
 # google_analytics: UA-69300817-1
 
