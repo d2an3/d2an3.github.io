@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:700,400);
+﻿@import url(https://fonts.googleapis.com/css?family=Raleway:700,400);
 
 body {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
@@ -16,6 +16,11 @@ body {
 a {
     text-decoration: none;
     /*background-color: rgba(39, 168, 34, 0.06);*/
+}
+
+.mycontent a {
+    text-decoration: underline;
+    background-color: rgba(39, 168, 34, 0.06);
 }
 
 a:visited {
