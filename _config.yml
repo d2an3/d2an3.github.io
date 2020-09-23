@@ -14,7 +14,7 @@ author: Andrei Dan
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /
-title: Andrei Dan's Personal Web Page
+title: Andrei Dan
 name: Andrei Dan
 email: d2an3m@gmail.com
 email_full: mailto:d2an3m@gmail.com
@@ -26,9 +26,11 @@ twitter: d2an3
 # tel_full: tel:+440000000000
 google_maps: 'https://goo.gl/maps/CYKtruXQiFZW1r856'
 address: 
-  street: Power Grids Research Segelhofstrasse 1A
-  postcode: CH-5405
-  city: Baden 
+  name: Hitachi ABB 
+  division: Power Grids Research
+  street: Segelhofstrasse 1A
+  postcode: 5405
+  city: Baden-Dättwil 
   country: Switzerland
 # google_analytics: UA-69300817-1
 
