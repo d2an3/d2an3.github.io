@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: https://d2an3.github.io
+url: andreidan.net
 author: Andrei Dan
 
 # edit this section with your information
@@ -16,10 +16,10 @@ author: Andrei Dan
 baseurl: /
 title: Andrei Dan
 name: Andrei Dan
-email: d2an3m@gmail.com
-email_full: mailto:d2an3m@gmail.com
-website: d2an3.github.io
-website_full: https://d2an3.github.io
+email: contact@andreidan.net
+email_full: mailto:contact@andreidan.net
+website: andreidan.net
+website_full: andreidan.net
 github: d2an3
 twitter: d2an3
 # tel: +44 0000 000000
